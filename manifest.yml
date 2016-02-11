@@ -9,4 +9,4 @@ applications:
   instances: 1
   memory: 256M
   services:
-    - php-mysql-db
+    - corpus_sqldb
